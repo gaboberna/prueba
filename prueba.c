@@ -3,7 +3,7 @@
 
 int main()
 {
-	pirntf("gabo se la come\n);
+	pirntf("gabo se la come doblada\n);
 	return 0;
 }
 
