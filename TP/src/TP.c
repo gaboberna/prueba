@@ -12,6 +12,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("gabo pt\n!"); /* prints !!!Hello World!!! */
-	return EXIT_SUCCESS;
+	puts("gabo pt\n!"); 
+	
+	return 0;
 }
