@@ -12,7 +12,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("gabo pt\n!"); 
+	printf("gabo pt\n!"); 
 	
 	return 0;
 }
